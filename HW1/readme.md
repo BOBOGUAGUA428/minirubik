@@ -12,3 +12,11 @@ hw1_test.s: The assembly test version for testing T7.
 hw1_final.s: The final assembly version.
 
 hw1_final_led: The LED version.
+
+Optimization Updates：
+
+hw1_optimized_final.s: The final optimized assembly code that stays within the 50,000,000 retired instruction budget.
+
+hw1_optimized_test.s: The test code version optimized specifically for T7.
+
+hw1_optimized_led.s: The optimized version tailored for the LED hardware setup/display.
